@@ -75,7 +75,7 @@ plt.show()
 
 
 ## See some reconstruction
-Img_spectral = loadmat('data/ARAD_HS_0453.mat')
+Img_spectral = loadmat('data/ARAD_HS_0464.mat')
 Ref_img = Img_spectral['cube'][0:250,0:250,3:-3]
 Ref_img = Ref_img/np.max( Ref_img)
 plt.figure()
