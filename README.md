@@ -64,6 +64,6 @@ If you have any questions, please contact
 * Henry Arguello, henarfu@uis.edu.co
 * Samuel Pinilla, samuel.pinilla@correo.uis.edu.co
 * Yifan (Evan) Peng, evanpeng@stanford.edu
-* Hayato Ikoma, hi.hayato.ikoma@gmail.com
+* Hayato Ikoma,
 * Jorge Bacca, jorge.bacca1@correo.uis.edu.co
 * Gordon Wetzstein, gordon.wetzstein@stanford.edu 
